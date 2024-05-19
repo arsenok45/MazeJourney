@@ -1,4 +1,4 @@
 Moving:
 WASD/Arrows 
-Interract:
+Interact:
 F
